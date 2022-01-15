@@ -1,0 +1,8 @@
+name: 'Build CRX Action'
+description: 'Build CRX from source code.'
+author: 'Minionguyjpro'
+inputs:
+runs:
+  using: "composite"
+  steps:
+    - run: 
